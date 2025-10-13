@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
+    { title: '新人必看', url: 'https://blog.tangly1024.com' },
     { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -18,19 +18,19 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '恭喜你',
+  HEO_HERO_TITLE_2: '找到我们了',
+  HEO_HERO_TITLE_3: 'GrowGoodGalaxy',
+  HEO_HERO_TITLE_4: '广告位招租',
+  HEO_HERO_TITLE_5: '合作加微信GrowGoodGalaxy',
+  HEO_HERO_TITLE_LINK: 'https://growgoodgalaxy.vercel.app/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '恒星计划', url: '/tag/恒星计划' },
+  HEO_HERO_CATEGORY_2: { title: '创业搭子', url: '/tag/创业搭子' },
+  HEO_HERO_CATEGORY_3: { title: '学术搭子', url: '/tag/学术搭子' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -50,10 +50,10 @@ const CONFIG = {
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
+  HEO_INFO_CARD_ICON1: 'fas fa-wechat',
   HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_ICON2: 'fab fa-xiaohongshu',
+  HEO_INFO_CARD_URL3: 'https://xhslink.com/m/Awp7Rc699Ay',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -119,8 +119,8 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入Discord',
+  HEO_SOCIAL_CARD_URL: 'https://discord.gg/aWudtTWGkg',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
@@ -146,7 +146,7 @@ const CONFIG = {
 
   HEO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   HEO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  HEO_ARTICLE_NOT_BY_AI: false, // 显示非AI写作
+  HEO_ARTICLE_NOT_BY_AI: true, // 显示非AI写作
   HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡

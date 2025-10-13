@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '恭喜你',
   HEO_HERO_TITLE_2: '找到我们了',
   HEO_HERO_TITLE_3: 'GrowGoodGalaxy',
-  HEO_HERO_TITLE_4: '广告位招租',
-  HEO_HERO_TITLE_5: '合作加微信GrowGoodGalaxy',
+  HEO_HERO_TITLE_4: '合作加微信：GrowGoodGalaxy',
+  HEO_HERO_TITLE_5: '广告位招租',
   HEO_HERO_TITLE_LINK: 'https://growgoodgalaxy.vercel.app/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -150,7 +150,7 @@ const CONFIG = {
   HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
-  HEO_WIDGET_ANALYTICS: false, // 显示统计卡
+  HEO_WIDGET_ANALYTICS: true, // 显示统计卡
   HEO_WIDGET_TO_TOP: true,
   HEO_WIDGET_TO_COMMENT: true, // 跳到评论区
   HEO_WIDGET_DARK_MODE: true, // 夜间模式

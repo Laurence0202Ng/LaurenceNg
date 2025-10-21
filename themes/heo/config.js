@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '新人必看', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '新人必看', url: 'https://growgoodgalaxy.vercel.app/article/2142174f-6f34-8035-85d3-e3a2e469554b' },
+    { title: '访问文档中心获取更多帮助', url: 'https://growgoodgalaxy.vercel.app/article/2142174f-6f34-8035-85d3-e3a2e469554b' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -19,13 +19,13 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '链接全球华人新锐',
-  HEO_HERO_TITLE_2: '一个为创造者、学者与前行者打造的精英网络',
+  HEO_HERO_TITLE_2: '一个为创造者与前行者打造的精英网络',
   HEO_HERO_TITLE_3: 'GrowGoodGalaxy',
-  HEO_HERO_TITLE_4: '合作加微信：GrowGoodGalaxy',
-  HEO_HERO_TITLE_5: '从GrowGoodGalaxy，链接你的全球机遇',
+  HEO_HERO_TITLE_4: '合作微信：GrowGoodGalaxy',
+  HEO_HERO_TITLE_5: '从这里链接你的全球机遇',
   HEO_HERO_TITLE_LINK: 'https://growgoodgalaxy.vercel.app/',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '从这里开始',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '恒星计划', url: '/tag/恒星计划' },

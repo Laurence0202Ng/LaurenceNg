@@ -18,11 +18,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '恭喜你',
-  HEO_HERO_TITLE_2: '找到我们了',
+  HEO_HERO_TITLE_1: '链接全球华人新锐',
+  HEO_HERO_TITLE_2: '一个为创造者、学者与前行者打造的精英网络',
   HEO_HERO_TITLE_3: 'GrowGoodGalaxy',
   HEO_HERO_TITLE_4: '合作加微信：GrowGoodGalaxy',
-  HEO_HERO_TITLE_5: '广告位招租',
+  HEO_HERO_TITLE_5: '从GrowGoodGalaxy，链接你的全球机遇',
   HEO_HERO_TITLE_LINK: 'https://growgoodgalaxy.vercel.app/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -40,12 +40,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🔍 信息整合小能手',
+    '🤝 文艺技商助推器',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🏠 专修交互与设计',
     '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🧱 共创搭建发动机'
   ],
 
   // 个人资料底部按钮

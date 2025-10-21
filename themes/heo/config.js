@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '新人必看', url: 'https://growgoodgalaxy.vercel.app/article/2142174f-6f34-8035-85d3-e3a2e469554b' },
-    { title: '访问文档中心获取更多帮助', url: 'https://growgoodgalaxy.vercel.app/article/2142174f-6f34-8035-85d3-e3a2e469554b' }
+    { title: '加入我们', url: 'https://growgoodgalaxy.vercel.app/article/21b2174f-6f34-802a-8597-fd223cc6bd85' }
   ],
 
   // 英雄区左右侧组件颠倒位置

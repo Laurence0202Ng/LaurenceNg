@@ -19,8 +19,8 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '链接全球华人新锐',
-  HEO_HERO_TITLE_2: '一个为创造者与前行者打造的精英网络',
-  HEO_HERO_TITLE_3: '合作微信：GrowGoodGalaxy',
+  HEO_HERO_TITLE_2: '从这里开始',
+  HEO_HERO_TITLE_3: '官方微信：GrowGoodGalaxy',
   HEO_HERO_TITLE_4: '一个为创造者与前行者打造的精英网络',
   HEO_HERO_TITLE_5: '从这里链接你的全球机遇',
   HEO_HERO_TITLE_LINK: 'https://growgoodgalaxy.vercel.app/',

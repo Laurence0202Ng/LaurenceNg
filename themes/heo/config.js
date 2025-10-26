@@ -50,9 +50,9 @@ const CONFIG = {
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: 'https://xhslink.com/m/Awp7Rc699Ay',
-  HEO_INFO_CARD_ICON1: 'fas fa-weixin',
+  HEO_INFO_CARD_ICON1: '<fa-brands fa-weixin',
   HEO_INFO_CARD_URL2: 'https://xhslink.com/m/Awp7Rc699Ay',
-  HEO_INFO_CARD_ICON2: 'fab fa-xiaohongshu',
+  HEO_INFO_CARD_ICON2: 'fa-brands fa-instagram',
   HEO_INFO_CARD_URL3: 'https://xhslink.com/m/Awp7Rc699Ay',
   HEO_INFO_CARD_TEXT3: '了解更多',
 

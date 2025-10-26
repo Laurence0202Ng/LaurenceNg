@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '链接全球华人新锐',
+  HEO_HERO_TITLE_1: '链接全球新锐',
   HEO_HERO_TITLE_2: '从这里开始',
   HEO_HERO_TITLE_3: '官方微信：GrowGoodGalaxy',
   HEO_HERO_TITLE_4: '一个为创造者与前行者打造的精英网络',
